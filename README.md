@@ -9,7 +9,7 @@
 No installer, no build step, no server, no network call. Open it in a browser and you're standing at a well in a dying valley.
 
 > **▶️ [Play Verdant Vale Live](https://padmanavamukhopadhyay.github.io/Verdant-vale-Open-world-First-Game-created-by-Me-/)**
-> *(update this link once GitHub Pages finishes deploying your repo)*
+
 
 ---
 
